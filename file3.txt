@@ -1,3 +1,7 @@
 Adding more content.
 Changing into feature-branch now
+<<<<<<< HEAD
 Main branch changes
+=======
+New branch changes
+>>>>>>> feature-branch
